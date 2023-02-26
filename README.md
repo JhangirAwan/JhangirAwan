@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JhangirAwan, currently working as an electrical engineer with a passion for programming.
+- 👋 Hi, I’m @JhangirAwan, currently working as backend software/data engineer.
 - 👀 I’m open to oppurtunities in the programming field. 
-- 🌱 I’m currently learning Python and Javascript.
+- 🌱 I’m currently learning Python and Java.
 - 💞️ I’m looking to collaborate on data analysis, web scraping and automation projects.
 - 📫 You can reach me at jhangirawan@gmail.com
 
